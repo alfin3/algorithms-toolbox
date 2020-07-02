@@ -1,1 +1,1 @@
-# algorithms-toolbox
+# theory-toolbox
